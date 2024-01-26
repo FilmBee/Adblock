@@ -1,4 +1,3 @@
-||www.1337x.to/home/^$document
 ##.box-info
 ##.box-info-detail
 ##.box-info-heading.clearfix

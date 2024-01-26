@@ -1,4 +1,4 @@
-||www.1337x.to^$document
-https://www.1337x.to/home/##.box-info
-https://www.1337x.to/home/##.box-info-detail
-https://www.1337x.to/home/##.box-info-heading.clearfix
+||www.1337x.to/home/^$document
+##.box-info
+##.box-info-detail
+##.box-info-heading.clearfix

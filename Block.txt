@@ -2,4 +2,3 @@
 ##.box-info-detail
 ##.box-info-heading.clearfix
 ##.tie-popup-adblock.is-fixed-popup
-##.nav-link
